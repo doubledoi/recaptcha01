@@ -1,12 +1,12 @@
 // file: script.js
 // Initialize Firebase
 var config = {
-  apiKey: "AIzaSyAvHToVDiX6-8vxSml0rg9S80hIxjoEojw",
-    authDomain: "dec222019.firebaseapp.com",
-    databaseURL: "https://dec222019.firebaseio.com",
-    projectId: "dec222019",
-    storageBucket: "dec222019.appspot.com",
-    messagingSenderId: "592439968262"
+  apiKey: "AIzaSyDxoCGQF0heyUThsEeNdxyfX_4yXtWQX3s",
+    authDomain: "recaptcha-96877.firebaseapp.com",
+    databaseURL: "https://recaptcha-96877.firebaseio.com",
+    projectId: "recaptcha-96877",
+    storageBucket: "recaptcha-96877.appspot.com",
+    messagingSenderId: "1088193104641"
 };
 firebase.initializeApp(config);
 
